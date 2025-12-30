@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_linear_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/art"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Welcome to Bloons TD"
+        android:textStyle="bold"
+        android:textSize="70dp"></TextView>
+
+    <Button
+        android:id="@+id/btnPlay"
+        android:layout_width="450dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:layout_gravity="center_horizontal"
+        android:text="Start Game"
+        android:textSize="30dp"></Button>
+
+    <Button
+        android:id="@+id/btnSett"
+        android:layout_width="450dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:layout_gravity="center_horizontal"
+        android:text="Setting"
+        android:textSize="30dp"></Button>
+
+    <Button
+        android:id="@+id/btnInst"
+        android:layout_width="450dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25dp"
+        android:layout_gravity="center_horizontal"
+        android:text="Instruction"
+        android:textSize="30dp"></Button>
+</LinearLayout>

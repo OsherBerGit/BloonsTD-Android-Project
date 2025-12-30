@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "664358842272",
+    "project_id": "bloonstowerdefense-107d6",
+    "storage_bucket": "bloonstowerdefense-107d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664358842272:android:0935c1cd8f981037057ec5",
+        "android_client_info": {
+          "package_name": "com.example.bloonstowerdefense"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9Mk7HHyV0iXMISrJLiqsLpsqDn35A18k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
