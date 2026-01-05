@@ -1,33 +1,44 @@
-# Bloons Tower Defense - Android Project
+# 🎈 Bloons Tower Defense - Android
 
-This is my final Android development project from high school (5 units of Computer Science). It is a 2D Tower Defense game inspired by the classic "Bloons TD," developed as a learning journey into mobile app development and game logic.
+![Java](https://img.shields.io/badge/Language-Java-orange)
+![Android Studio](https://img.shields.io/badge/Tools-Android%20Studio-green)
+![Firebase](https://img.shields.io/badge/Backend-Firebase-yellow)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 
-## 📝 Project Overview
-The game challenges players to prevent balloons (Bloons) from reaching the end of a path. Players strategically place "monkeys" (towers) along the path to pop the balloons. Popping balloons earns currency, which can be used to purchase more defenses.
+<div align="center">
+  <img width="776" height="364" alt="image" src="https://github.com/user-attachments/assets/7ec9dc9d-be99-4bda-8180-5635e621129b" width="500" alt="Bloons TD Screenshot" />
+</div>
 
-## 🚀 Key Features
-* **2D Graphics Engine:** Real-time rendering of game board, towers, and balloon waves.
-* **Game Logic:** Implements tower defense mechanics, including life systems, economy (gold), and progressive wave difficulty.
-* **Firebase Integration:** Users can save their game progress to the cloud and resume later.
-* **Drag & Drop Interface:** Interactive UI for placing towers on the game map.
-* **Instructional System:** Built-in guide for new players to understand game mechanics.
+## 📖 About
+This is my final **Android Development Project** submitted for high school graduation (5 units of Computer Science, 2023). 
+
+It is a fully functional **2D Tower Defense game** inspired by the classic "Bloons TD". The goal is simple: prevent balloons from reaching the end of the path by strategically placing "monkey towers" that pop them. 
+
+I built this project to master the fundamentals of mobile development, game loops, and object-oriented programming.
 
 ## 🛠 Tech Stack
-* **Language:** Java / Kotlin (Android)
-* **Database:** Firebase Realtime Database (for saving game states)
-* **Minimum SDK:** API 21 (Android 4.4.3)
-* **Tools:** Android Studio
+* **Language:** Java (Native Android)
+* **IDE:** Android Studio
+* **Database:** Firebase Realtime Database (Cloud Save/Load)
+* **Minimum SDK:** API 21 (Android 5.0)
 
-## 📱 Tested On
-* Pixel 7 Pro (Physical & Emulator)
-* Android versions 4.4.3 through 5.0.1
+## ✨ Highlights & Features
+* **🎮 Custom 2D Engine:** Hand-coded rendering logic for the game board, moving balloons, and projectiles.
+* **☁️ Cloud Integration:** Uses **Firebase** to save player progress and high scores remotely.
+* **👆 Drag & Drop System:** Custom touch listeners allowing smooth placement of towers on the map.
+* **🧠 Dynamic Game Logic:** Economy (gold), wave progression, and life systems.
+* **📱 Device Compatibility:** Originally built for older versions, now tested on modern devices like the **Pixel 7 Pro**.
 
-## 💡 What I Learned
-During this project, I gained hands-on experience with:
-1.  **Mobile Game Loops:** Managing real-time movement and collision detection.
-2.  **State Management:** Handling game data and syncing it with a remote database.
-3.  **UI/UX Design:** Creating a responsive drag-and-drop system for mobile screens.
-4.  **Problem Solving:** Translating complex game rules into working code.
+## 🚀 Quick Start
+To run this project:
+1. **Clone the repo:** `git clone https://github.com/OsherBerGit/Bloons-Tower-Defense.git`
+2. **Open in Android Studio** and let Gradle sync.
+3. **Run** on an emulator or physical device.
 
 ---
-*Note: This project was submitted as part of my high school graduation requirements in 2023. While it may not be 100% bug-free, it represents my foundation in software development.*
+
+### 🎓 Academic Note
+**This project was submitted as part of my high school graduation requirements in 2023. While it may not be 100% bug-free, it represents my foundation in software development and my first steps into building complex, state-driven applications.**
+
+---
+*Note: I'm proud of this project as it marks the beginning of my journey as a developer.*
