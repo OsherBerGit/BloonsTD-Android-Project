@@ -2,7 +2,7 @@
 
 ![Java](https://img.shields.io/badge/Language-Java-orange)
 ![Android Studio](https://img.shields.io/badge/Tools-Android%20Studio-green)
-![Firebase](https://img.shields.io/badge/Backend-Firebase-yellow?logo=firebase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Backend-Firebase-yellow) <!-- ?logo=firebase&logoColor=white -->
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 <div align="center">
