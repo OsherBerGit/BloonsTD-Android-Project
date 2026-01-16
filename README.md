@@ -1,6 +1,6 @@
 # 🎈 Bloons Tower Defense - Android
 
-![Java](https://img.shields.io/badge/Language-Java-orange)
+![Java](https://img.shields.io/badge/Language-Java-b07219)
 ![Android Studio](https://img.shields.io/badge/Tools-Android%20Studio-green)
 ![Firebase](https://img.shields.io/badge/Backend-Firebase-yellow) <!-- ?logo=firebase&logoColor=white -->
 ![Status](https://img.shields.io/badge/Status-Completed-success)
